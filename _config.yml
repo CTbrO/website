@@ -20,10 +20,8 @@ paginate: 5
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-#production_url : http://www.codeursenseine.com
 url: http://127.0.0.1:4000
-#url : http://www.youenchene.fr
-production_url : http://www.cto.org
+production_url : http://www.ctbro.org
 
 
 gems:
